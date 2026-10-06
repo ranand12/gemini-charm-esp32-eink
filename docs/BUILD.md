@@ -6,6 +6,10 @@ Use the original compatible ESP32-S3 board: 8 MB flash, 8 MB OPI PSRAM, ES8311 s
 
 Display pins: CS 11, DC 10, RESET 9, BUSY 8, MOSI 13, clock 12, power control 6. BOOT button: GPIO 0. Volume button: GPIO 18. Audio wiring is defined in the sketch's `setup()` and bundled codec configuration. Check wiring against your actual board before powering it.
 
+### Purchase options
+
+- [Amazon](https://www.amazon.com/dp/B0GV417JB7)
+
 ## 2. Install tools
 
 Install [Arduino CLI](https://docs.arduino.cc/arduino-cli/installation/), Git, and Python 3. On macOS with Homebrew:
