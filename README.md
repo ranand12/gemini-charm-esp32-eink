@@ -1,4 +1,4 @@
-![Gemini Live Agent — tiny wireless voice device for connected agent automation](assets/gemini-live-agent-banner.png)
+![Gemini Live Agent — tiny wireless voice device for connected agent automation](assets/gemini-live-agent-banner-v4.png)
 
 # Gemini Live Agent — ESP32-S3
 
