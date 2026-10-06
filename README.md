@@ -1,3 +1,5 @@
+![Gemini Live Agent — tiny wireless voice device for connected agent automation](assets/gemini-live-agent-banner.png)
+
 # Gemini Live Agent — ESP32-S3
 
 Source export of the latest saved version, **v3.2 automatic Hermes routing**, saved October 5, 2026.
