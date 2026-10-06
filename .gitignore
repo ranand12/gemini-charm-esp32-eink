@@ -1,0 +1,17 @@
+Gemini_Live/local_config.h
+.env
+.env.*
+!.env.example
+*secrets*
+*credentials*
+build/
+*.bin
+*.elf
+*.map
+*.log
+*.o
+*.a
+*.pyc
+.venv/
+__pycache__/
+.DS_Store
