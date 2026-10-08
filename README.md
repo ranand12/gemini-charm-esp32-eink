@@ -13,3 +13,7 @@ Voice conversations through Gemini Live, acoustic echo cancellation, e-paper sta
 This is device firmware; it runs on the matching ESP32-S3 hardware. Hermes is an optional backend placeholder. You can replace it with any agent through a compatible API or adapter; see [agent backend interface](docs/AGENT_BACKEND.md). The backend is a separate service and is not included. Included vendor sources retain their original licenses. No new license is granted for the application code.
 
 The saved v3.2 checkpoint reports successful compilation, flash verification, direct-answer and Hermes-delegation tests. Microphone recognition was not verified in that checkpoint. This export makes the original personal Hermes URL configurable; the rest of the saved firmware is preserved. No hardware is flashed during export.
+
+## Disclaimer
+
+This repository and its contents are provided for illustration and educational purposes only as example code. This is not an official Google product or officially supported Google Cloud project. This code is provided as-is for demonstration purposes and is NOT intended or supported for production workloads. The views, code, and opinions expressed in this repository are those of the author(s) and do not necessarily reflect the position, opinions, or official policy of Google LLC or Google Cloud Platform.
