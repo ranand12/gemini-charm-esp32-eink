@@ -6,6 +6,40 @@ Source export of the latest saved version, **v3.2 automatic Hermes routing**, sa
 
 Voice conversations through Gemini Live, acoustic echo cancellation, e-paper status display, battery indicator, light sleep, backup Wi-Fi, and asynchronous Hermes task routing and completion notifications.
 
+## A quiet assistant for your pocket
+
+A pocket-sized wireless assistant for reaching AI without picking up a phone. Press BOOT, talk, and hear a response. E Ink keeps the interface quiet and glanceable.
+
+Gemini Live handles conversation; an optional remote agent runs tool-based tasks in the background. Keep talking or end the session while work continues. A bell signals a result; start a conversation to hear it.
+
+With the author's configured Hermes backend, the [project demo and story](https://www.cloud-monk.com/blog/going-screenless-again/) includes:
+
+- Creating slides and emailing a link.
+- Publishing a thought to X.
+- Finding a coloring page and printing it at home.
+
+These examples depend on your backend's tools, integrations, and permissions.
+
+During idle light sleep, Wi-Fi and audio turn off; BOOT wakes the device. It cannot receive network notifications while asleep. Battery life has not yet been measured.
+
+## Device gallery
+
+Images from the [project blog post](https://www.cloud-monk.com/blog/going-screenless-again/); device screens are firmware-based composites.
+
+![Pocket assistant overview](assets/blog/ready-attention-cover-highlighted.png)
+
+| Voice input | Spoken response |
+| --- | --- |
+| ![Device listening](assets/blog/listening-setting.png) | ![Device speaking](assets/blog/speaking-setting.png) |
+
+| Ready for a request | Agent result available |
+| --- | --- |
+| ![Device ready](assets/blog/ready-setting.png) | ![Completion bell on the display](assets/blog/task-complete-setting.png) |
+
+![Device in light sleep](assets/blog/light-sleep-setting.png)
+
+## Build and setup
+
 - [Build guide](docs/BUILD.md)
 - [Step-by-step setup and use](docs/SETUP.md)
 - [Privacy and export details](docs/PRIVACY.md)
